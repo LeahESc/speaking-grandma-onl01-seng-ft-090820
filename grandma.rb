@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
   elsif #{"phrase"} == #{"phrase".upcase}
   returns "NO, NOT SINCE 1938!"
   elsif #{"phrase"} == "I love you Grandma!"
-  return "I LOVE YOU TOO PUMPKIN!"
+  returns "I LOVE YOU TOO PUMPKIN!"
 end
 end
 
