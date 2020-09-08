@@ -6,3 +6,5 @@ elsif #{"phrase"} == #{"phrase".upcase}
   elsif #{"phrase"} == "I love you Grandma!"
   puts "I LOVE YOU TOO PUMPKIN!"
 end
+
+speak_to_grandma("I love you Grandma!")
